@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Neha Collection — Girls’ Kurtis & Accessories</title>
+  <meta name="description" content="Neha Collection: Girls’ Kurtis and accessories. Elegant designs at fair prices. Enquire on WhatsApp." />
+  <link rel="stylesheet" href="styles.css" />
+  <meta property="og:title" content="Neha Collection — Girls’ Kurtis & Accessories" />
+  <meta property="og:description" content="Elegant, comfortable, ready-to-wear styles. Enquire on WhatsApp." />
+  <meta property="og:image" content="assets/cover.jpg" />
+  <meta property="og:type" content="website" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-flex">
+      <div class="brand">
+        <span class="logo">NC</span>
+        <h1>Neha Collection</h1>
+      </div>
+      <nav class="nav">
+        <a href="#catalog">Catalog</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Elegance in every thread</h2>
+      <p>Handpicked Girls’ Kurtis and accessories—stylish, comfortable, and ready to wear.</p>
+      <a href="#catalog" class="btn">Browse catalog</a>
+    </div>
+  </section>
+
+  <section id="catalog" class="catalog container">
+    <h3>Catalog</h3>
+    <div class="filters">
+      <select id="categoryFilter">
+        <option value="All">All categories</option>
+      </select>
+      <input id="searchInput" type="search" placeholder="Search by name or tag..." />
+    </div>
+    <div id="productsGrid" class="grid"></div>
+  </section>
+
+  <section id="about" class="container about">
+    <h3>About</h3>
+    <p>At Neha Collection, we curate contemporary and traditional designs—from everyday wear to festive looks. Quality fabrics, flattering fits, and fair pricing.</p>
+  </section>
+
+  <section id="contact" class="container contact">
+    <h3>Contact</h3>
+    <ul>
+      <li>WhatsApp: <a id="waLink" href="#" target="_blank" rel="noopener">Chat now</a></li>
+      <li>Instagram: <a href="#" target="_blank" rel="noopener">@yourhandle</a></li>
+      <li>Email: <a href="mailto:hello@nehacollection.com">hello@nehacollection.com</a></li>
+    </ul>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© <span id="year"></span> Neha Collection · Made with love</small>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

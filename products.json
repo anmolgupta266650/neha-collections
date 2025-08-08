@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Anarkali Kurti — Floral Cotton",
+    "category": "Kurtis",
+    "price": 1499,
+    "description": "Cotton, floral print, sizes S–XL",
+    "image": "anarkali-kurti.jpg",
+    "tags": ["floral", "cotton", "anarkali"]
+  },
+  {
+    "name": "Straight Kurti — Pastel Rayon",
+    "category": "Kurtis",
+    "price": 1299,
+    "description": "Rayon, pastel tones, sizes M–XXL",
+    "image": "straight-kurti.jpg",
+    "tags": ["rayon", "pastel", "straight"]
+  },
+  {
+    "name": "Kurti Set with Dupatta — Embroidered",
+    "category": "Kurtis",
+    "price": 1999,
+    "description": "Festive set with dupatta",
+    "image": "kurti-set.jpg",
+    "tags": ["set", "dupatta", "embroidered"]
+  },
+  {
+    "name": "Threadwork Kurti — Handcrafted",
+    "category": "Kurtis",
+    "price": 1799,
+    "description": "Hand-threaded yoke detail",
+    "image": "threadwork-kurti.jpg",
+    "tags": ["handwork", "festive"]
+  },
+  {
+    "name": "Jhumka Earrings — Oxidized",
+    "category": "Accessories",
+    "price": 399,
+    "description": "Oxidized silver, medium size",
+    "image": "jhumka.jpg",
+    "tags": ["jhumka", "oxidized", "earrings"]
+  },
+  {
+    "name": "Gold-toned Bangles (Set of 12)",
+    "category": "Accessories",
+    "price": 299,
+    "description": "Lightweight and stackable",
+    "image": "bangles.jpg",
+    "tags": ["bangles", "gold", "set"]
+  }
+]
